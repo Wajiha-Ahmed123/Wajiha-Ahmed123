@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wajiha-Ahmed123
 - 👀 I’m interested in learning about the tech world
 - 🌱 I’m currently learning active recruiting 
-- 💞️ I’m looking to collaborate on sourcing for RORs
+- 💞️ I’m looking for ROR Developers 
 - 📫 How to reach me - Email: jiaahmed84@gmail.com
 
 <!---
